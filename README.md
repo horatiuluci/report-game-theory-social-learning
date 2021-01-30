@@ -1,4 +1,4 @@
-# Assignment 1 of Computational Game Theory Course
+# Computational Game Theory Course Assignment
 
 This repository contains the files required to complete the first assigment of the the Computational Game Theory (CGT) course.
 
